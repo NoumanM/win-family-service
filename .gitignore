@@ -1,0 +1,8 @@
+/config/config.py
+/env
+/venv
+/cd
+*.xlsx
+.idea/
+
+
