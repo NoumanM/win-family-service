@@ -4,5 +4,6 @@
 /cd
 *.xlsx
 .idea/
+*.csv
 
 
